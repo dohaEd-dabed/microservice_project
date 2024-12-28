@@ -20,7 +20,7 @@ class Header extends Component {
         return (
             <div className="row mt-3">
                 <div className="col-12 col-md-4">
-                    <h1 className="text-info"><img style={ {height: '50px'} } src="/images/logo.png" alt="Logo"/> swika</h1>
+                    <h1 className="text-info"><img style={ {height: '50px'} } src="/images/logo.png" alt="Logo"/>Bookhub</h1>
                 </div>
                 <div className="col-12 col-12 col-md-4 col-lg-7 text-right">
                     <ul className="list-inline pt-3">
