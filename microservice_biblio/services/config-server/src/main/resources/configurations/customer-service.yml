@@ -1,0 +1,15 @@
+server:
+  port: 8090
+spring:
+  data:
+    mongodb:
+      username: azaim
+      password: azaim
+      host: localhost
+      port: 27017
+      database: customer
+      authentication-database: admin
+
+
+
+
